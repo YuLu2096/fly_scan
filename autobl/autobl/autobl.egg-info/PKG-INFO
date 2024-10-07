@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: autobl
-Version: 0.0.1
-Summary: Automation of beamline operations
-Author: 
-Requires-Python: >=3.10
-Description-Content-Type: text/markdown
-Provides-Extra: steering
