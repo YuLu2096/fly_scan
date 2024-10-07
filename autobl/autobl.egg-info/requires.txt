@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+tqdm
+jupyter
+ipywidgets
+scikit-learn
+scikit-image
+pandas
+
+[steering]
+botorch==0.9.4
